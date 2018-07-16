@@ -1,7 +1,10 @@
 .DS_Store
 dist/electron/*
 dist/web/*
-build/*
+build/mac
+build/win-unpacked
+build/*.blockmap
+build/*.zip
 !build/icons
 node_modules/
 npm-debug.log
