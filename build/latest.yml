@@ -1,0 +1,9 @@
+version: 1.0.3
+files:
+  - url: WhatArmyOTS-Setup-1.0.3.exe
+    sha512: m6U7mRMrn2dvJ8va0KaGyWHfyUqP6J/7aENvR+R7xCiaMoUCelQDjVTFwcOcFkAVfqBVuQU8C/oNGm40IncfBg==
+    size: 36403252
+path: WhatArmyOTS-Setup-1.0.3.exe
+sha512: m6U7mRMrn2dvJ8va0KaGyWHfyUqP6J/7aENvR+R7xCiaMoUCelQDjVTFwcOcFkAVfqBVuQU8C/oNGm40IncfBg==
+sha2: 6a379bc4877030c9d8e6548117685c699b21e36209cfaf659f5480f298a9a74d
+releaseDate: '2018-07-16T19:11:16.997Z'

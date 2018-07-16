@@ -1,0 +1,10 @@
+version: 1.0.3
+files:
+  - url: WhatArmyOTS-1.0.3-mac.zip
+    sha512: KmJYbi2vcxiq3rKyNL3qC3/BHv0OeCipbLrFmEP9ruV2aUC/x9YY0NOSa/HsGFseqkRB7/yC10z+MgrMfK3fWw==
+  - url: WhatArmyOTS-1.0.3.dmg
+    sha512: ZrxalDvya0pZPDD6hCKdWK7tpiAAHstg9RNtFVUZhwbHbM9C2QoPpXEQEYra+JOfFlMJ6KmHUKSZ+rHamLduPw==
+    size: 50578404
+path: WhatArmyOTS-1.0.3-mac.zip
+sha512: KmJYbi2vcxiq3rKyNL3qC3/BHv0OeCipbLrFmEP9ruV2aUC/x9YY0NOSa/HsGFseqkRB7/yC10z+MgrMfK3fWw==
+releaseDate: '2018-07-16T19:12:41.078Z'
